@@ -1,0 +1,113 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep  3 15:08:56 2018
+
+AUTHOR: courtneytaylor
+DESCRIPTION: Python Meditations on Elements of Parts of Speech 
+LICENSE: GENU General Publice License v2
+"""
+
+
+import random
+
+random.seed()
+
+# lists of nouns
+nouns = ["character", 
+         "you", 
+         "day", 
+         "power",
+         "dawn", 
+         "nature", 
+         "evil", 
+         "encouragement",
+         "injustice",
+         "soul",
+         "self",
+         "everything"]
+
+# lists of verbs
+verbs = ["does", 
+         "wakes", 
+         "uses", 
+         "obeys",
+         "goes",
+         "governs",
+         "happens",
+         "claims",
+         "designs",
+         "achieves", 
+         "makes", 
+         "reaches"]
+
+# lists of adjectives
+adjectives = ["simple", 
+              "meddling", 
+              "divine", 
+              "inward",
+              "human",
+              "pliable",
+              "same",
+              "whole",
+              "rational",
+              "naked",
+              "empty",
+              "long"]
+
+# lists of adverbs
+adverbs = ["clearly", 
+           "tenderly", 
+           "longer",
+           "deliberately",
+           "unconsciously",
+           "unavoidably",
+           "already",
+           "finally",
+           "closely",
+           "always",
+           "completely", 
+           "frankly"]
+
+# select random words from lists
+noun = random.choice(nouns)
+
+verb = random.choice(verbs)
+
+adjective = random.choice(adjectives)
+
+adjective_b = random.choice(adjectives)
+
+adverb = random.choice(adverbs)
+
+adverb_b = random.choice(adverbs)
+
+adverb_c = random.choice(adverbs)
+
+adverb_d = random.choice(adverbs)
+
+#word poem 2
+print "{noun}" "." .format(noun=noun)
+print "{noun} {verb}" ".".format (noun=noun, verb=verb)
+print "     " "{adjective} {noun}" ".".format (adjective=adjective, noun=noun)
+print "              " "{verb} {adverb}" ".".format (verb=verb, adverb=adverb)
+print "   " "{noun}" ".".format (noun=noun)
+print "          " "{verb}" ".".format (verb=verb)
+print "                  " "{adverb_b} {adverb_c} {adverb_d}" ".".format (adverb_b=adverb_b, 
+       adverb_c=adverb_c, adverb_d=adverb_d)
+
+
+
+
+##word poem 1
+#print noun + "."
+#print noun + " " + verb + "." 
+#print adjective + " " + noun + " " + verb + " "
+#
+## for loop to iterate through verbs
+#i = 1
+#for adverb in adverbs:
+#    whitespace = " " * i
+#    print whitespace + adverb
+#    i = i + 1
+
