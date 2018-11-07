@@ -67,7 +67,8 @@ It
 **Poem 4**
 ```
 Nowhere you can go is more peaceful.
-What am I making of its congenital soul, and all existence; and think that there is least rationality in the matter of opinion; and that you are unfit for them?
+What am I making of its congenital soul, and all existence; and think that there is least rationality in the matter of opinion; 
+and that you are unfit for them?
 It
  pours
   reaches
@@ -79,7 +80,8 @@ It
 **Poem 5**
 ```
 Nowhere you can go is more peaceful.
-How easy it is succeeded by another which is of the Universe for all who were once much celebrated now sound strangely in our power is good fortune.
+How easy it is succeeded by another which is of the Universe for all who were once much celebrated now sound 
+strangely in our power is good fortune.
 It
  pours
   reaches
