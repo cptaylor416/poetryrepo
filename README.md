@@ -67,8 +67,8 @@ It
 **Poem 4**
 ```
 Nowhere you can go is more peaceful.
-What am I making of its congenital soul, and all existence; and think that there is least rationality in the matter of opinion; 
-and that you are unfit for them?
+What am I making of its congenital soul, and all existence; and think that there is least rationality in the 
+matter of opinion; and that you are unfit for them?
 It
  pours
   reaches
