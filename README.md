@@ -104,3 +104,6 @@ It
 
 **Poem 6 Rendered in Waveform**
 ![poem6waveform](https://github.com/digital-culture-seminar/cptaylor-poetry-repository/blob/master/Rendered%20Capture.PNG)
+
+**Poem 6 Rendered in Waveform FabForm View**
+![poem6waveformalt](https://github.com/digital-culture-seminar/cptaylor-poetry-repository/blob/master/Poem%206%20fab%20form.PNG)
