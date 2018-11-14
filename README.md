@@ -107,3 +107,6 @@ It
 
 **Poem 6 Rendered in Waveform FabForm View**
 ![poem6waveformalt](https://github.com/digital-culture-seminar/cptaylor-poetry-repository/blob/master/Poem%206%20fab%20form.PNG)
+
+**Poem 6 Rendered, Flattened, Scaled for Laser Cutting 18x32" sheets**
+![poem6flattenedscaled](https://github.com/digital-culture-seminar/cptaylor-poetry-repository/blob/master/Capture%20Scaled%20for%20Laser%20Cutting%2018x32%20sheets.PNG)
