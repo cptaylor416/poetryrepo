@@ -102,5 +102,5 @@ It
      as if standing on fishes.
 ```
 
-**Poem 6 Rendered in Wavefom**
+**Poem 6 Rendered in Waveform**
 ![poem6waveform](https://github.com/digital-culture-seminar/cptaylor-poetry-repository/blob/master/Rendered%20Capture.PNG)
